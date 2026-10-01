@@ -51,3 +51,7 @@ status.
 ### Module version
 
 **1.0.10**
+
+## Translation
+
+Module is translated to, EN, DE, PL, FR. The module utilizes PrestaShop's native translation system. It is possible to add translations for any language available in the store's administration panel.
