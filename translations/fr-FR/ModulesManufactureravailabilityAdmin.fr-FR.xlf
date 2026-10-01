@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="ModulesManufactureravailabilityAdmin.xlf" source-language="en-US" target-language="fr-FR" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="2b37288f0ababfe9c825c1bdb67f5778">
+        <ns0:source>Availability by manufacturer</ns0:source>
+        <ns0:target>Disponibilité par fabricant</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="37819656ffc58d418a398c150fe8e126">
+        <ns0:source>Set the out-of-stock behaviour and the availability label for all products of a manufacturer in one place.</ns0:source>
+        <ns0:target>Définissez en un seul endroit le comportement en rupture de stock et l'étiquette de disponibilité pour tous les produits d'un fabricant.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ed0b93f5b6304136af3e75e1bbe7a614">
+        <ns0:source>Are you sure you want to uninstall this module? Settings already written to products will stay unchanged.</ns0:source>
+        <ns0:target>Voulez-vous vraiment désinstaller ce module ? Les réglages déjà enregistrés dans les produits resteront inchangés.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="78de86a20eb025cb0250bb9ae048678b">
+        <ns0:source>%count% products</ns0:source>
+        <ns0:target>%count% produits</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="525d19d3d93b4e87551ae7cb01e9c358">
+        <ns0:source>No products assigned</ns0:source>
+        <ns0:target>Aucun produit associé</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="119a7c88cf8f1c685c57981abff26f43">
+        <ns0:source>Allow orders</ns0:source>
+        <ns0:target>Autoriser les commandes</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f072da215c080d985d44361e96a3cf60">
+        <ns0:source>Deny orders</ns0:source>
+        <ns0:target>Refuser les commandes</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0123096e73f8472eed6945edbcf9e532">
+        <ns0:source>An error occurred while saving. Please try again.</ns0:source>
+        <ns0:target>Une erreur s'est produite lors de l'enregistrement. Veuillez réessayer.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e2b22c89431736d251ecdc3f6560ddb2">
+        <ns0:source>Are you sure you want to delete all exceptions of this manufacturer?</ns0:source>
+        <ns0:target>Voulez-vous vraiment supprimer toutes les exceptions de ce fabricant ?</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8524de963f07201e5c086830d370797f">
+        <ns0:source>Loading...</ns0:source>
+        <ns0:target>Chargement...</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="405e6a003a719605addb982f394d2fbe">
+        <ns0:source>No products found.</ns0:source>
+        <ns0:target>Aucun produit trouvé.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="434363cf4880ec06a9da4fbc0740d143">
+        <ns0:source>Selected exceptions: %count%</ns0:source>
+        <ns0:target>Exceptions sélectionnées : %count%</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a7f6b1fb770597bbd066857032035a95">
+        <ns0:source>Exceptions - %name%</ns0:source>
+        <ns0:target>Exceptions - %name%</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d8dccdf13a304a14f3e0ecc36969a6ce">
+        <ns0:source>Exceptions: %exceptions% of %total% products are not changed by the module</ns0:source>
+        <ns0:target>Exceptions : %exceptions% produits sur %total% ne sont pas modifiés par le module</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="76ea336e0ff4c10e1e7ab78335369f8e">
+        <ns0:source>No exceptions</ns0:source>
+        <ns0:target>Aucune exception</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2db6e05274a36fb0a305ce287b58b16a">
+        <ns0:source>Manufacturers list</ns0:source>
+        <ns0:target>Liste des fabricants</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a82be0f551b8708bc08eb33cd9ded0cf">
+        <ns0:source>Information</ns0:source>
+        <ns0:target>Informations</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4d3d769b812b6faa6b76e1a8abaece2d">
+        <ns0:source>Active</ns0:source>
+        <ns0:target>Actif</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8c2857a9ad1d8f31659e35e904e20fa6">
+        <ns0:source>Logo</ns0:source>
+        <ns0:target>Logo</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c0bd7654d5b278e65f21cf4e9153fdb4">
+        <ns0:source>Manufacturer</ns0:source>
+        <ns0:target>Fabricant</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5ce00f66be3fd54e40eab844c446e80d">
+        <ns0:source>When out of stock</ns0:source>
+        <ns0:target>En rupture de stock</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d06c823c75c35b82fa57ec91a72c0f4e">
+        <ns0:source>Availability label</ns0:source>
+        <ns0:target>Étiquette de disponibilité</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d5f1381c5f97f928df4ef8d18c2a27c0">
+        <ns0:source>Exceptions</ns0:source>
+        <ns0:target>Exceptions</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <ns0:source>Save</ns0:source>
+        <ns0:target>Enregistrer</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="854001e695291b78bd9503c037c7d613">
+        <ns0:source>Use default behaviour (%behaviour%)</ns0:source>
+        <ns0:target>Utiliser le comportement par défaut (%behaviour%)</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="12ebd80d40fd9dd9974f38320aacd0ce">
+        <ns0:source>Manufacturers without any product are highlighted in red.</ns0:source>
+        <ns0:target>Les fabricants sans aucun produit sont surlignés en rouge.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="22ec708914152e30fed35847a788be82">
+        <ns0:source>Choose a template or type your own text</ns0:source>
+        <ns0:target>Choisissez un modèle ou saisissez votre texte</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3cd682ad065d489fd3d5d7e16e9d55a9">
+        <ns0:source>Enable or disable the module for this manufacturer</ns0:source>
+        <ns0:target>Activer ou désactiver le module pour ce fabricant</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4994a8ffeba4ac3140beb89e8d41f174">
+        <ns0:source>Language</ns0:source>
+        <ns0:target>Langue</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="15a6b2979bdca5e7e3df669de5b0b018">
+        <ns0:source>No manufacturers found.</ns0:source>
+        <ns0:target>Aucun fabricant trouvé.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4fd171f7823430a602fcacbdc5d56e6a">
+        <ns0:source>Filter by product name</ns0:source>
+        <ns0:target>Filtrer par nom de produit</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4c2f5349309758660544f95a119f38dd">
+        <ns0:source>Filter by product code</ns0:source>
+        <ns0:target>Filtrer par code produit</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b718adec73e04ce3ec720dd11a06a308">
+        <ns0:source>ID</ns0:source>
+        <ns0:target>ID</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ca0dbad92a874b2f69b549293387925e">
+        <ns0:source>Code</ns0:source>
+        <ns0:target>Code</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="df644ae155e79abf54175bd15d75f363">
+        <ns0:source>Product name</ns0:source>
+        <ns0:target>Nom du produit</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b0d4998a26f5b5742ad38c4af8817e32">
+        <ns0:source>Exception</ns0:source>
+        <ns0:target>Exception</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d3b3024c891b1ccbf034533c007c5f73">
+        <ns0:source>Add / change exceptions</ns0:source>
+        <ns0:target>Ajouter / modifier les exceptions</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0450d266974d92724ff4bacc3a51952e">
+        <ns0:source>Delete all</ns0:source>
+        <ns0:target>Tout supprimer</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d3d2e617335f08df83599665eef8a418">
+        <ns0:source>Close</ns0:source>
+        <ns0:target>Fermer</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b9d75f8de7c4efda18ea31a2e7d1fbed">
+        <ns0:source>Select all visible</ns0:source>
+        <ns0:target>Sélectionner tous les visibles</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e2fa964ecd765f3b60a0ac47550d2739">
+        <ns0:source>Unselect all visible</ns0:source>
+        <ns0:target>Désélectionner tous les visibles</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f6b5f35f6564a567f1810df0b730e3dc">
+        <ns0:source>Load more</ns0:source>
+        <ns0:target>Charger plus</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="27c1f598c2b2b0a8e64424d257e8b398">
+        <ns0:source>What does this module do?</ns0:source>
+        <ns0:target>Que fait ce module ?</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="289096791e15e43d8fff160570e5107b">
+        <ns0:source>The module lets you manage, from one place, the product setting "When out of stock" and the label "Label when out of stock (and back order allowed)" for all products of a manufacturer.</ns0:source>
+        <ns0:target>Le module permet de gérer depuis un seul endroit le réglage « En rupture de stock » et l'étiquette « Étiquette en cas de rupture de stock (commande autorisée) » pour tous les produits d'un fabricant.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="df907f0cdd8bb789cfa461b6fd6ebd6d">
+        <ns0:source>Each manufacturer has its own switch, out-of-stock behaviour and availability label (in every language).</ns0:source>
+        <ns0:target>Chaque fabricant a son propre interrupteur, son comportement en rupture de stock et son étiquette de disponibilité (dans chaque langue).</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e478019e0f4008ad8e66321416dde68c">
+        <ns0:source>After saving, the values are written to all products of that manufacturer.</ns0:source>
+        <ns0:target>Après l'enregistrement, les valeurs sont écrites dans tous les produits de ce fabricant.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4dc13ce0055ddeb48fbc97ba284118d7">
+        <ns0:source>Switching a manufacturer off restores the shop default behaviour and clears the label in its products.</ns0:source>
+        <ns0:target>La désactivation d'un fabricant rétablit le comportement par défaut de la boutique et efface l'étiquette dans ses produits.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9613f364282354bc2411559fb0b1fc2d">
+        <ns0:source>Products marked as exceptions are never changed by the module.</ns0:source>
+        <ns0:target>Les produits marqués comme exceptions ne sont jamais modifiés par le module.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="59d7d0ff076f9cf20ab76835b9e41e8c">
+        <ns0:source>New or edited products of an active manufacturer receive the settings automatically.</ns0:source>
+        <ns0:target>Les produits nouveaux ou modifiés d'un fabricant actif reçoivent automatiquement les réglages.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="df9c715f20aaf58fb3926cc02b08ec53">
+        <ns0:source>Compatibility</ns0:source>
+        <ns0:target>Compatibilité</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8853d0a70996c6de394ed5a5f997cf12">
+        <ns0:source>Supported PHP versions</ns0:source>
+        <ns0:target>Versions PHP prises en charge</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="35359f743c3c833a4a20ffb27352d8b7">
+        <ns0:source>Supported PrestaShop versions</ns0:source>
+        <ns0:target>Versions PrestaShop prises en charge</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b5678f966bf8c437c089a25035e1e863">
+        <ns0:source>Detected PHP version</ns0:source>
+        <ns0:target>Version PHP détectée</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5c69226e4388d86f4f8c046d74da216b">
+        <ns0:source>Detected PrestaShop version</ns0:source>
+        <ns0:target>Version PrestaShop détectée</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="eaa4dc5078017a5c5bebf383ab6f5124">
+        <ns0:source>Supported</ns0:source>
+        <ns0:target>Prise en charge</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="aa7f77e663b832d5b0e544c5511e680c">
+        <ns0:source>Not supported</ns0:source>
+        <ns0:target>Non prise en charge</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cf4a40ddcf85893a3253d1ad7dcffd13">
+        <ns0:source>Version-specific code</ns0:source>
+        <ns0:target>Code spécifique à la version</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e6703f9e5145eca036d9965e6430f49b">
+        <ns0:source>The module detects the PHP and PrestaShop version at runtime and automatically selects the matching translation system, hooks and product page handling. The PHP version you can use is limited by your PrestaShop version.</ns0:source>
+        <ns0:target>Le module détecte à l'exécution la version de PHP et de PrestaShop et choisit automatiquement le système de traduction, les hooks et la gestion de la fiche produit adaptés. La version PHP utilisable dépend de votre version de PrestaShop.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b1c1d84a65180d5912b2dee38a48d6b5">
+        <ns0:source>Module version</ns0:source>
+        <ns0:target>Version du module</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5167589b203324cddf61fb11b7edd480">
+        <ns0:source>Settings saved. Updated products: %count%.</ns0:source>
+        <ns0:target>Réglages enregistrés. Produits mis à jour : %count%.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c2d63c6b945db98b4f50b0dc6d83e507">
+        <ns0:source>Module switched off for this manufacturer. Products restored to shop defaults: %count%.</ns0:source>
+        <ns0:target>Module désactivé pour ce fabricant. Produits rétablis aux valeurs par défaut de la boutique : %count%.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="aed4da012f58cbbd7e52636971b62311">
+        <ns0:source>Exceptions saved. Updated products: %count%.</ns0:source>
+        <ns0:target>Exceptions enregistrées. Produits mis à jour : %count%.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="de3279d7374b38e7c36676a949be2f03">
+        <ns0:source>All exceptions deleted. Updated products: %count%.</ns0:source>
+        <ns0:target>Toutes les exceptions supprimées. Produits mis à jour : %count%.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="777f9e90cf251ec077f633406368c632">
+        <ns0:source>Invalid request.</ns0:source>
+        <ns0:target>Requête invalide.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="652122103181aa2752efaecab300edf0">
+        <ns0:source>Access denied.</ns0:source>
+        <ns0:target>Accès refusé.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ec211f7c20af43e742bf2570c3cb84f9">
+        <ns0:source>Add</ns0:source>
+        <ns0:target>Ajouter</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="26174b5e6f35917fff1bd408fedd6be8">
+        <ns0:source>Add label</ns0:source>
+        <ns0:target>Ajouter une étiquette</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f736df1a1d094176d5b0fff07dc2b5c9">
+        <ns0:source>Add the label to the dropdown list</ns0:source>
+        <ns0:target>Ajouter l'étiquette à la liste déroulante</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b1c94ca2fbc3e78fc30069c8d0f01680">
+        <ns0:source>All</ns0:source>
+        <ns0:target>Tous</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="254f642527b45bc260048e30704edb39">
+        <ns0:source>Configuration</ns0:source>
+        <ns0:target>Configuration</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c1caa7d93bd7933f6bfbace631873980">
+        <ns0:source>Display settings saved.</ns0:source>
+        <ns0:target>Paramètres d'affichage enregistrés.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1041f116aa3407cbee47c851bbc524c6">
+        <ns0:source>Displayed fields</ns0:source>
+        <ns0:target>Champs affichés</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b89432d5c1b56eede363993574f1ac31">
+        <ns0:source>Enter the label text in at least one language.</ns0:source>
+        <ns0:target>Saisissez le texte de l'étiquette dans au moins une langue.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d7778d0c64b6ba21494c97f77a66885a">
+        <ns0:source>Filter</ns0:source>
+        <ns0:target>Filtrer</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0e6ad08cd44e883434c6a9066f973ed2">
+        <ns0:source>Label added to the list.</ns0:source>
+        <ns0:target>Étiquette ajoutée à la liste.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f54d8e45ba072a9be7e9de0a9e8d54bf">
+        <ns0:source>Label removed from the list.</ns0:source>
+        <ns0:target>Étiquette supprimée de la liste.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3ad6cb6100190c8f81e99fd52debf7ef">
+        <ns0:source>Labels</ns0:source>
+        <ns0:target>Étiquettes</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2c1bef997fd0b1e46f58d19704fe8309">
+        <ns0:source>Nothing to save.</ns0:source>
+        <ns0:target>Aucune modification à enregistrer.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ce47cb979d48caf060f7d1a094b06c37">
+        <ns0:source>Only active</ns0:source>
+        <ns0:target>Actifs uniquement</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2648230e8ee0f04b29b0b6dfee4b51ca">
+        <ns0:source>Only inactive</ns0:source>
+        <ns0:target>Inactifs uniquement</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1063e38cb53d94d386f21227fcd84717">
+        <ns0:source>Remove</ns0:source>
+        <ns0:target>Supprimer</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7990c3bcf85d8367ee54b6ad93535870">
+        <ns0:source>Remove label</ns0:source>
+        <ns0:target>Supprimer une étiquette</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4ccfddde7696759c35d434580be577f0">
+        <ns0:source>Save all</ns0:source>
+        <ns0:target>Tout enregistrer</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d44fb31dfa1c41ddbcd0e7bb0c7f8771">
+        <ns0:source>Saved manufacturers: %count%</ns0:source>
+        <ns0:target>Fabricants enregistrés : %count%</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="22efdbe132eabc102306bd7a334fb434">
+        <ns0:source>Scan</ns0:source>
+        <ns0:target>Analyser</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7083b47daa33ff1fa8f8d9b06b89b477">
+        <ns0:source>Show manufacturer ID</ns0:source>
+        <ns0:target>Afficher l'ID du fabricant</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e8ea3ad619bbc9d27cee6780d5da8e10">
+        <ns0:source>Show manufacturer logo</ns0:source>
+        <ns0:target>Afficher le logo du fabricant</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d652df3fc2c60f7d58bf51d23e7e8abe">
+        <ns0:source>Show manufacturer name</ns0:source>
+        <ns0:target>Afficher le nom du fabricant</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="99bc68089b7f55f72105cf96666b3b07">
+        <ns0:source>Show text labels next to the exceptions and scan icons</ns0:source>
+        <ns0:target>Afficher des libellés à côté des icônes d'exceptions et d'analyse</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a0f8916723125502b23db374bd5030d7">
+        <ns0:source>Show text labels next to the label management icons</ns0:source>
+        <ns0:target>Afficher des libellés à côté des icônes de gestion des étiquettes</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2cb524b3eeafbba4338e7d2cf15e3937">
+        <ns0:source>Some manufacturers could not be saved: %count%</ns0:source>
+        <ns0:target>Certains fabricants n'ont pas pu être enregistrés : %count%</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7fbff5ec7f9ea423a769b5466b894ab1">
+        <ns0:source>The list of labels is empty.</ns0:source>
+        <ns0:target>La liste des étiquettes est vide.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4d0546d449d1704a63e651e43cbb439c">
+        <ns0:source>With exceptions</ns0:source>
+        <ns0:target>Avec exceptions</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cef960755b9dcbe1935150433c024d2f">
+        <ns0:source>Do not change current setting</ns0:source>
+        <ns0:target>Ne pas modifier le réglage actuel</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fa40ed4c3cc1076fa5445e1ea5860c48">
+        <ns0:source>Scan products and add those that already have their own settings to the exceptions</ns0:source>
+        <ns0:target>Analyser les produits et ajouter aux exceptions ceux qui ont déjà leurs propres réglages</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0f3323a6ab10b79dc5279f81847cf562">
+        <ns0:source>Scan finished. Products added to exceptions: %count%.</ns0:source>
+        <ns0:target>Analyse terminée. Produits ajoutés aux exceptions : %count%.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f621145b2b9ddda1f23fb27db7b4d89b">
+        <ns0:source>Logo file not found</ns0:source>
+        <ns0:target>Fichier du logo introuvable</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="665cffb4c8aca91f08c8a4d3bc612779">
+        <ns0:source>Logo directory</ns0:source>
+        <ns0:target>Répertoire des logos des fabricants</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c9561fd399711cfb3035b1b933207188">
+        <ns0:source>Logo files found</ns0:source>
+        <ns0:target>Fichiers de logo trouvés</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="51fba242b1fbfb37b10987c4f5a71ad6">
+        <ns0:source>GD library</ns0:source>
+        <ns0:target>Bibliothèque GD</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="78945de8de090e90045d299651a68a9b">
+        <ns0:source>Available</ns0:source>
+        <ns0:target>Disponible</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2d25c72c1b18e562f6654fff8e11711e">
+        <ns0:source>Not available</ns0:source>
+        <ns0:target>Non disponible</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7fbaf4b36a14c198aaffc76469a489d5">
+        <ns0:source>The scan button adds to the exceptions every product that already has its own settings, so they are never overwritten.</ns0:source>
+        <ns0:target>Le bouton d'analyse ajoute aux exceptions chaque produit ayant déjà ses propres réglages, afin qu'il ne soit jamais écrasé.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0297bf185657b7042a07e131f81c677f">
+        <ns0:source>With "Do not change current setting" the module only fills in the availability label and leaves the out-of-stock behaviour of the products untouched.</ns0:source>
+        <ns0:target>Avec « Ne pas modifier le réglage actuel », le module renseigne uniquement l'étiquette de disponibilité et ne touche pas au comportement en rupture de stock.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b038a01cba61ed12fcef80f2c7aaaa38">
+        <ns0:source>Settings saved. Updated products: %count%. Products with their own settings automatically added to exceptions: %exceptions%.</ns0:source>
+        <ns0:target>Réglages enregistrés. Produits mis à jour : %count%. Produits avec réglages propres ajoutés automatiquement aux exceptions : %exceptions%.</ns0:target>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="310e82934285d93b2d6d05691e32b46b">
+        <ns0:source>When a manufacturer is switched on, products that already have their own out-of-stock setting or label are automatically added to the exceptions.</ns0:source>
+        <ns0:target>À l'activation d'un fabricant, les produits ayant déjà leur propre réglage de rupture de stock ou une étiquette sont automatiquement ajoutés aux exceptions.</ns0:target>
+      </ns0:trans-unit>
+    <ns0:trans-unit id="ad6ed7d2eee873c7966f9b504755bd0f"><ns0:source>Save label</ns0:source><ns0:target>Enregistrer l’étiquette</ns0:target></ns0:trans-unit><ns0:trans-unit id="3edc0a7445372b1fe910ec4ef8de2bc6"><ns0:source>Delete label</ns0:source><ns0:target>Supprimer l’étiquette</ns0:target></ns0:trans-unit><ns0:trans-unit id="7c2770c8a2f06634b8f77a351c201486"><ns0:source>Are you sure you want to delete this label?</ns0:source><ns0:target>Voulez-vous vraiment supprimer cette étiquette ?</ns0:target></ns0:trans-unit><ns0:trans-unit id="76f158b31c14d26976aa84caa51d9144"><ns0:source>Availability labels</ns0:source><ns0:target>Étiquettes de disponibilité</ns0:target></ns0:trans-unit><ns0:trans-unit id="1b25c0ddb6784c16837bfd288de0cee5"><ns0:source>Manage all labels available in the dropdown. You can edit, add or remove them.</ns0:source><ns0:target>Gérez toutes les étiquettes disponibles dans la liste déroulante. Vous pouvez les modifier, les ajouter ou les supprimer.</ns0:target></ns0:trans-unit><ns0:trans-unit id="3d880e7c59fbb5979f6a6709ae81d775"><ns0:source>Version-dependent code</ns0:source><ns0:target>Code dépendant de la version</ns0:target></ns0:trans-unit></ns0:body>
+  </ns0:file>
+</ns0:xliff>
